@@ -1,0 +1,7 @@
+keras~=3.14.0
+matplotlib~=3.10.8
+opencv-python~=4.13.0.92
+numpy~=2.4.4
+mediapipe~=0.10.33
+tensorflow~=2.21.0
+scikit-learn~=1.8.0
